@@ -1,0 +1,6 @@
+;; Object foot-pedal
+;; EDE Project Files are auto generated: Do Not Edit
+(ede-proj-project "foot-pedal"
+  :file "Project.ede"
+  :name "foot-pedal"
+  :targets nil)
